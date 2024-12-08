@@ -21,3 +21,5 @@
 .idea/
 *.tmproj
 .vscode/
+# Ignore some specific files
+Helm Chart Assignment.txt
